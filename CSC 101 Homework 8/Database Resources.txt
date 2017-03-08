@@ -1,0 +1,27 @@
+1. The back-end is how the website runs, changes, and updates itself. 
+This basically consists of everything the user can't see, such as databases and servers. 
+Usually people who work on the back-end are called programmers or developers. 
+Back-end developers are mostly worried about things like security, structure and content management.  
+Back-end development is required to create a dynamic site.   
+A dynamic site requires a database to work properly.  All  information, like user profiles or  images they've uploaded, or blog posts, are stored in the database. 
+
+Resources for understanding servers: 
+- http://computer.howstuffworks.com/web-server1.htm
+This is a great resource as it's step by step. It also provides a quiz at the end so you can test your knowledge.
+- http://www.dummies.com/programming/networking/network-basics-servers/
+This is very nice as it's straight to the point. A quick read on the basics you need to know. 
+- https://www.youtube.com/watch?v=N0HnkdZ3DII
+This video is great as it compares front-ends with back-ends while also giving visual demonstrations.
+
+2. SQL's are Stored in a relational model, with rows and columns. Rows contain all of the information about one entry and columns seperate the data points.
+Whereas NoSQL databases encompasses a host of databases, each with different data storage models. The main ones are: document, graph, key-value and columnar.
+  SQL also uses structured query language for defining and manipulating data. 
+In No SQL databases, queries are focused on the collection of documents or UnQL (unstructured query language).  
+Both technologies are best in what they do and it is up to the developer to decide which to use in a certain situation.
+
+Resources for SQL's:
+- https://www.w3schools.com/sql/
+I've always used w3 schools in order to learn for any type of programming. I love how simple it is and how it shoes examples on how to utilize the code.
+- https://www.youtube.com/watch?v=Z-vsvu9YH7M
+Great video on getting started with SQL. Videos are the best as you can go along with it whilst applying it yourself.
+

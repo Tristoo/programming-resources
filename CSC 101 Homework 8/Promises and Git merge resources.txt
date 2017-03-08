@@ -1,0 +1,17 @@
+3. I usually start looking for help on javascript questions by using w3schools. It's great because it provides you with example code on how to run specific problems.
+Promises represent a value that we can handle at some point in the future. They give us guarantees about that future value.
+They give us a much better way to control asynchronous program flow than plain callbacks.  
+
+Resources on promises:
+- http://www.datchley.name/es6-promises/
+- https://spin.atomicobject.com/2016/02/16/how-javascript-promises-work/
+- https://ponyfoo.com/articles/es6-promises-in-depth
+
+4. Resources for Git Merge:
+- https://git-scm.com/docs/git-merge
+- https://www.atlassian.com/git/tutorials/git-merge
+- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+- https://www.youtube.com/watch?v=uR-9NGrpU-c
+
+Git mergetool gets launched to show merges. It is launched to resolve merge conflicts after the merge.
+The tool will automatically edit texts with error, when it has resolved everything, simply closing it will result in a save and exit.
